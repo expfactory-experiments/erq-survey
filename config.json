@@ -1,0 +1,17 @@
+{
+    "name": "Emotion Regulation Questionnaire (ERQ) Survey",
+    "template":"survey",
+    "exp_id": "erq-survey",
+    "cognitive_atlas_task_id": "trm_4da890594742a",
+    "contributors": [
+             "Zeynep Enkavi",
+             "Ian Eisenberg",
+             "Patrick Bissett",
+             "Vanessa Sochat",
+             "Russell Poldrack"
+            ], 
+    "time":3,
+    "reference": ["http://psycnet.apa.org/journals/psp/85/2/348/"],
+    "description": "Experiment Factory survey",
+    "instructions": "Please answer the following questions to the best of your ability"
+}
