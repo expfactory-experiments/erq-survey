@@ -2,6 +2,7 @@
     "name": "Emotion Regulation Questionnaire (ERQ) Survey",
     "template":"survey",
     "exp_id": "erq-survey",
+    "url": "https://github.com/expfactory-experiments/erq-survey",
     "cognitive_atlas_task_id": "trm_4da890594742a",
     "contributors": [
              "Zeynep Enkavi",
